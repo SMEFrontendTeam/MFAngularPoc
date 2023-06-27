@@ -1,6 +1,6 @@
-# Demo Microfront Angular 14 con Module Federate
+# Demo Microfront Angular 16 con Module Federate
 
-Este proyecto se usa la version 14.2.6 de Angular
+Este proyecto se usa la version 16 de Angular
 
 # Creación de espacio de trabajo
 
